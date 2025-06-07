@@ -1,13 +1,17 @@
-# T.L-SENG
-- 👋 Hi, I’m SENG SMOS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
-## 🌐 Socials:
+
+### Hi there 👋 I'm Leangseng
+🎓I'm a  Computer Science year 2 at SPI (Takeo Province). <br />
+🧑‍🏫 Former Frontend Development & Data Analytics Instructor at ISTAD.<br />
+💼 Previously a Frontend Developer at AsurRaa.<br />
+🌐 Also working as an online frontend developer instructor.<br />
+📹 And yes — I'm a content creator too!
+<br />
+✨ I’m passionate about learning, building, and sharing.<br />
+💡 I love exploring new tech, teaching others, and creating cool things
+<br />
+
+
+### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1C9UcnbEsU/) 
 
 # 💻 Tech Stack:
@@ -21,4 +25,14 @@
 [![](https://visitcount.itsvg.in/api?id=T.L SENG&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://komarev.com/ghpvc/?username=T.L SENG-username&color=green)=for-the-badge
+
+| <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaaSun&theme=buefy&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Jessica's github stats" /></a> | <a href="" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaaSun&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<br />
+<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
+
+
+<img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=T.L SENG
+&color=ff69b4&style=for-the-badge" />
+<br/>
