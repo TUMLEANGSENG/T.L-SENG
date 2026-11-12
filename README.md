@@ -1,6 +1,6 @@
 
 ### Hi SENG 👋 I'm Leangseng
-🎓I'm a  Computer Science year 3 at SPI (Takeo Province). <br />
+🎓I'm a  Computer Science year 4 at SPI (Takeo Province). <br />
 🧑‍🏫 Former Frontend Development & Data Analytics Instructor at ISTAD.<br />
 💼 Previously a Frontend Developer at AsurRaa.<br />
 🌐 Also working as an online frontend developer instructor.<br />
